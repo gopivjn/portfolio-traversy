@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-traversy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o /css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopivjn/portfolio-traversy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopivjn/portfolio-traversy/issues"
+  },
+  "homepage": "https://github.com/gopivjn/portfolio-traversy#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
